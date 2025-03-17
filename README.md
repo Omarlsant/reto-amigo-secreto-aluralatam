@@ -34,4 +34,10 @@ El programa permite a un grupo de personas jugar al amigo secreto de forma digit
 *   Entregar el resultado.
 *   Manejar posibles errores y entradas inválidas.
 
+## Organización del proyecto:
+
+Puedes ver la estructura del proyecto y la organización de las tareas en mi plantilla de trello:
+
+https://trello.com/b/6XW4rypl/trello-challenge-amigo-secreto-esp
+
 ### ¡Diviértete jugando al amigo secreto!
